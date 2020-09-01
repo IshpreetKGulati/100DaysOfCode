@@ -55,8 +55,6 @@ def checkMagazine(magazine, note):
       
   return "Yes"
         
-  
-
 if __name__ == '__main__':
     mn = input().split()
 
